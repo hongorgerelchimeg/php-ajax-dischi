@@ -57,7 +57,11 @@ nav {
 
 .card h1 {
     color: whitesmoke;
-    line-height: 2;
+    margin: 1rem 0;
+}
+
+.card > p {
+    margin-top: .2rem;
 }
 
 .card .img-holder {
